@@ -56,6 +56,7 @@ Usage
 python scripts/extract_osm_producers.py
 Output file:
 data/processed/osm_producers.geojson
+
 🗺 Visualizing in QGIS
 Open QGIS
 Drag osm_producers.geojson into the map
